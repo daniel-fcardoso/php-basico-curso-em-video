@@ -1,0 +1,1 @@
+Estruturas de condição de múltipla escolha em PHP. Switch case em PHP usa a mesma sintaxe do Java e da Linguagem C e C++.
