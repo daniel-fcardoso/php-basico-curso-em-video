@@ -1,0 +1,1 @@
+Na aula de hoje veremos como funciona a estrutura de repetição while.
