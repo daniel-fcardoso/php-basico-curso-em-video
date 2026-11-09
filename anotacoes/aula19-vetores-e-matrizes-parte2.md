@@ -1,0 +1,1 @@
+Nessa aula vamos dar continuidade aos nossos estudos sobre variáveis compostas, e encerraremos o curso de PHP para iniciantes.
