@@ -1,0 +1,1 @@
+Na aula de hoje vamos dar início as variáveis compostas.
